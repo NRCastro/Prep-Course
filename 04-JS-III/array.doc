@@ -1,0 +1,11 @@
+En un archivo de texto separado que debes crear, escribe la explicación del siguiente concepto como si se lo explicaras a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+Arrays:
+Los array son una estructura de datos que almacena la computadora, son utilizados en el área de programación para guardar una colección de datos semejantes, es decir del mismo tipo y relacionados:
+Ejemplos:
+•	Array de tipos de mascotas:
+array mascotas= [perro, gatos, tortugas, peces];
+ Mascotas es el nombre del array. Tiene 4 datos guardados y en las siguientes posiciones: 
+-	Perro (en la posición 0)
+-	gato (en la posición 1)
+-	tortuga (en la posición 2)
+-	peces(en la posición 3)
